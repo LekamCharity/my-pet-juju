@@ -1,0 +1,13 @@
+*body{
+    font-style: italic;
+    text-align: center;
+    background-color: blueviolet;
+    background-image: url(/home/moringa/Desktop/beauty.jpg);
+    background-repeat: no-repeat;
+}
+h1{
+    font-weight: bolder;
+}
+h2{
+    font-style: normal;
+}
