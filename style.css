@@ -2,11 +2,17 @@ body{
     font-style: normal;
     text-align: center;
     background-repeat: no-repeat;
+    background-color: darkmagenta;
+
 }
 h1{
+    color: coral;
     font-weight: bolder;
 }
 h2{
     font-style: normal;
     color: brown;
+}
+p{
+    color: white;
 }
